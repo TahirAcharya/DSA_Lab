@@ -4,4 +4,3 @@
 
 [Program 2](https://docs.google.com/document/d/16moJojCHeK24h7BCtbxQ8LHGenoPE18chKMDIYLh9GA/edit?usp=drivesdk)
 
-[https://meet.google.com/dzp-tfjt-hkx](https://meet.google.com/dzp-tfjt-hkx)

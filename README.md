@@ -1046,8 +1046,7 @@ Before submitting an experiment:
 
 ```text
 ☐ Problem statement understood
-☐ Appropriate data structure identified
-☐ Algorithm written
+☐ Appropriate data structure identified + Theory 
 ☐ Program implemented in C
 ☐ Program compiled successfully
 ☐ Syntax errors removed
@@ -1057,10 +1056,10 @@ Before submitting an experiment:
 ☐ Overflow tested where applicable
 ☐ Underflow tested where applicable
 ☐ Multiple test cases executed
-☐ Output verified
-☐ Result written
+☐ Output verified by instructor
+☐ Result hand written
 ☐ Inference written
-☐ Viva questions prepared
+☐ Viva questions prepared(min 4)
 ```
 
 ---
@@ -1171,13 +1170,14 @@ III
 
 ### Course Faculty / Contributors
 
+- Mr. Mohammed Tahir Mirji
 - Dr. Abdul Khadar A
 - Mrs. Soniya R
 - Mrs. Mithuna H R
 - Mr. Jagadish
 - Ms. Deeksha
 - Ms. Surbhi
-- Mr. Mohammed Tahir Mirji
+
 
 ---
 
